@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_it-kamasutra_1/static/css/main.c446395e.css",
+    "main.js": "/React_it-kamasutra_1/static/js/main.f125f98a.js",
+    "index.html": "/React_it-kamasutra_1/index.html",
+    "main.c446395e.css.map": "/React_it-kamasutra_1/static/css/main.c446395e.css.map",
+    "main.f125f98a.js.map": "/React_it-kamasutra_1/static/js/main.f125f98a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c446395e.css",
+    "static/js/main.f125f98a.js"
+  ]
+}
