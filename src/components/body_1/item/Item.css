@@ -1,0 +1,31 @@
+.item-con {
+    display: flex;
+    align-items: center;
+    padding: 20px 0;
+    border-bottom: 1.5px solid rgb(146, 146, 146);
+}
+
+.style_false {
+    background-color: rgb(255, 114, 114);
+}
+
+
+.style_true {
+    background-color: rgb(58, 158, 58);
+}
+
+.style_nan {
+    background-color: rgb(100, 100, 100);
+}
+
+.item-con img {
+    width: 30px;
+}
+
+.line-item {
+    flex: auto;
+    font-size: 12px;
+}
+
+
+

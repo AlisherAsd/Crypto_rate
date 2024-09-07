@@ -1,0 +1,11 @@
+.body1 {
+    max-width: 800px;
+    width: 100%;
+    padding: 20px 0px;
+    border: 1.5px solid rgb(153, 153, 153);
+    border-radius: 10px;
+}
+
+.pag {
+    padding: 50px;
+}
